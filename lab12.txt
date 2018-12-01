@@ -1,0 +1,3 @@
+Jennifer Gurtler
+Github: https://github.com/jegu5171/CU-CSCI3308-CIPractice
+Travis CI: https://travis-ci.org/jegu5171/CU-CSCI3308-CIPractice
