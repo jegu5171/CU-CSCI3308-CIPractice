@@ -1,6 +1,5 @@
-os: linux
-script:  make dep && make && make test
-sudo: required
 install: sudo apt-get install check
+sudo: required
 language: c
 compiler: gcc
+script:  make dep && make && make test
