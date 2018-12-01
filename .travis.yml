@@ -1,4 +1,6 @@
 os: linux
-script: 
+script:  make dep && make && make test
 sudo: required
-install: pkg-config
+install: sudo apt-get install check
+language: c
+compiler: gcc
